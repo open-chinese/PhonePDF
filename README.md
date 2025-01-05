@@ -1,6 +1,6 @@
 # Phone PDF: let you read PDF files--books, papers, notes on your phone easily
 
-**This project is intended solely for study and educational purposes. Any use of the content or results outside of this context is not permitted.**
+**This project is intended solely for study and educational purposes.**
 
 <div style="display: flex; justify-content: space-between;">
   <img src="./images/demo1.png" alt="demo1" style="width: 25%;">
